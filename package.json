@@ -1,0 +1,22 @@
+{
+  "name": "headlesspuppeteer",
+  "version": "1.0.0",
+  "description": "Play HeadLess Puppetter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthpratik/HeadLessPuppeteer.git"
+  },
+  "author": "Manish Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthpratik/HeadLessPuppeteer/issues"
+  },
+  "homepage": "https://github.com/sthpratik/HeadLessPuppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
